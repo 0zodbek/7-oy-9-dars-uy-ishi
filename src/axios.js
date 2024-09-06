@@ -3,7 +3,7 @@ import axios from 'axios';
 const axiosInstance = axios.create({
   baseURL: 'https://api.kinopoisk.dev/v1.4',
   headers: {
-    'X-API-KEY': '68YR40J-YENM25K-K03KW0S-HS0ETEC',
+    'X-API-KEY': 'V8J0YG0-0GTM95J-H9HDD7D-XZFM48N',
   },
 });
 
